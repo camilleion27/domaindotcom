@@ -12,7 +12,7 @@ public class Main {
         String userName = input.nextLine();
 
         System.out.println("Is your name " + userName + " ?");
-        System.out.println("Yes or No?");
+        System.out.println("Yes or No? HI");
 
         String confirmName = input.nextLine();
 
